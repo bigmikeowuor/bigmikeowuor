@@ -1,6 +1,6 @@
 ### Hi I am Michael... 👋
 
-## I build and consult on a few software projects for Superior Software Solutions
+## I build and consult on a few projects for Superior Software Solutions
 
 - 🔭 I’m currently working on Vue.js, Google Cloud Run and Firebase content.
 - 🌱 I’m currently learning REST APIs, testing using Jest and design using HTML and CSS.
